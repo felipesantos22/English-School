@@ -1,5 +1,5 @@
 import express from 'express';
-import routerAlunos from './src/router/router.alunos';
+import routerAlunos from './router/router.alunos';
 
 const app = express();
 
